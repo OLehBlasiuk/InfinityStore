@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.7"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "jsbd",
+  "main": "1",
+  "devDependencies": {},
+  "scripts": {
+    "test": "1"
+  },
+  "keywords": [
+    "slavaUkrainyInfinityStore"
+  ],
+  "author": "OlehVlasiuk",
+  "license": "ISC"
+}

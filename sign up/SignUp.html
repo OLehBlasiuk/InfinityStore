@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <title>Sign UP</title>
+    <link rel="stylesheet" href="C:\Users\admin\Desktop\Css\sign up\SignUp.css">
+<body>
+    <div class="Page">
+        <header>
+          <div class="MainMenu">
+            <header>
+                <nav class="Pag1">
+                    <ul>
+                      <div  ><a class="InfinityStore" >INFINITY STORE</a></p>
+                      
+                      <p   class="s-a" ><a  class="Store" href="C:\Users\admin\Desktop\Css\Store\Store.html">Store</a></p>
+                      <p   class="s-a" ><a class="Community" href="C:\Users\admin\Desktop\Css\Community\Community.Html">Community</a></p>
+                      <p   class="s-a" ><a class="NewsEvents" href="C:\Users\admin\Desktop\Css\NewsEvents\NewsEvents.html">News & Events</a></p>
+                      <p   class="s-a" ><a  class="Support" href="C:\Users\admin\Desktop\Css\Support\Support.html">Support</a></p>
+                      <p   class="s-a"  ><a class="AboutUs" href="C:\Users\admin\Desktop\Css\About us\About Us.Html">About Us</a></p>
+                      
+                      
+                      <p>
+                          <p><label for="site-search"></label>
+                          <input class="search" type="search" id="site-search" name="q" />
+  
+                           <img class="lookfor" src="C:\Users\admin\Desktop\Css\Lookfor.png" alt="Look for">
+                          </p>
+                      <p>
+                          
+                              <span id="ChangeLanguages" class="ChangeLanguages"><img class="iconChangeLanguages " src="C:\Users\admin\Desktop\Css\changeLanguage.png" icon Change Languages></span>
+                         
+                      </p>
+                          <a href="C:\Users\admin\Desktop\Css\Profile\Profile.html" > 
+                                    <span id="Profile"   class="Profile"><img class="iconProfile" src="C:\Users\admin\Desktop\Css\Profile.png" alt="icon Profile"></span>
+                              
+                          </a>
+                      </p>
+                    </ul>
+                </nav>
+            
+        </div>
+   </div>
+
+   <div class='fors-container'>
+    <h1 class="text-gradient">Welcome to Infinity</h1>
+    <form id="signup_form" action='/signup' method='post'>
+        <div class='form-group'>
+            <label for='name'>Username:</label>
+            <input type='text' id='name' name='username' placeholder='Enter your name' maxlength="32" required autocomplete='off' >
+        </div>
+        <div class='form-group'>
+            <label for='email'>Email:</label>
+            <input type='email' id='email' name='email' placeholder='Enter your email' required autocomplete='off' >
+        </div>
+        <div class='form-group'>
+            <label for='password'>Password:</label>
+            <input type='password' name='password' id='password' placeholder='Password' required>
+        </div>
+        <div class='form-group'>
+            <label for='confirm_password'>Confirm Password:</label>
+            <input type='password' name='confirm_password' id='confirm_password' placeholder='Confirm Password' required>
+            <span id="password_error" style="color: rgb(210, 22, 22);"></span>
+        </div>
+        <button type='submit' class='submit-btn' id="signup_button">Signup</button>
+    </form>
+    <p>Already have an account? <a href='/'>Login</a></p>
+</div>
+
+</body>
+</html>
