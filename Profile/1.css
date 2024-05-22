@@ -368,8 +368,8 @@ body{
 .MyActivity{
     width: 438px;
 height: 70px;
-top: 485px;
-left: 60px;
+top: 405px;
+left: 0px;
 gap: 0px;
 opacity: 0px;
 
@@ -385,8 +385,8 @@ opacity: 0px;
 .MyAchievments{
     width: 438px;
 height: 70px;
-top: 584px;
-left: 60px;
+top: 504px;
+left: 0px;
 gap: 0px;
 opacity: 0px;
 
@@ -401,8 +401,8 @@ opacity: 0px;
 .MyContent{
     width: 438px;
     height: 70px;
-    top: 683px;
-    left: 60px;
+    top: 603px;
+    left: 0px;
     gap: 0px;
     opacity: 0px;
     
@@ -417,8 +417,8 @@ opacity: 0px;
 .MyClubs{
     width: 438px;
     height: 70px;
-    top: 782px;
-    left: 60px;
+    top: 702px;
+    left: 0px;
     gap: 0px;
     opacity: 0px;    
     font-family: Gilroy;
@@ -432,8 +432,8 @@ opacity: 0px;
 .Info{
     width: 438px;
 height: 70px;
-top: 881px;
-left: 60px;
+top: 801px;
+left:  0px;
 gap: 0px;
 opacity: 0px;
     font-family: Gilroy;
@@ -447,18 +447,18 @@ opacity: 0px;
 .infoOFProfile3{
 width: 1322px;
 height: 560px;
-top: 485px;
-left: 538px;
+top: 405px;
+left: 478px;
 gap: 0px;
 opacity: 0px;
 position: absolute;
-background: rgba(255, 255, 255, 1);
+background: #ffffff;
 }
 
 .partialAchievments{
     width: 1322px;
     height: 80px;
-    top: -21px;
+    top: -22px;
     left: 0px;
     gap: 0px;
     opacity: 0px;
@@ -624,4 +624,502 @@ position: absolute;
     left: 10px;
     top: 5px;
     
+}
+
+
+
+.avatar1{
+    width: 200px;
+height: 194.16px;
+top: 25px;
+left: 88px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.NickName{
+    width: 880px;
+height: 46px;
+top: 35px;
+left: 303px;
+gap: 0px;
+opacity: 0px;
+
+font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+position: absolute;
+}
+.Description{
+    width: 880px;
+    height: 100px;
+    top: 90px;
+    left: 303px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.2px;
+    text-align: left;
+    color:  rgba(0, 0, 0, 1);
+
+    position: absolute;
+}
+.Joined{
+    width: 168px;
+height: 23px;
+top: 200px;
+left: 104px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+
+position: absolute;
+
+}
+.Gameslaoded{
+    width: 144px;
+height: 46px;
+top: 15px;
+left: 30px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+.Games_Rate{
+    position: absolute;
+    width: 124px;
+height: 46px;
+    top: 15px;
+    left: 196px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+.ForumMessage{
+position: absolute;
+width: 144px;
+height: 46px;
+top: 15px;
+left: 338px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+.Timer{
+    position: absolute;
+    width: 443px;
+    height: 29px;
+    top: 20px;
+    left: 1202px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 34.8px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.Level{
+    position: absolute;
+    width: 103px;
+    height: 35px;
+    top: 20px;
+    left: 1674px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 30px;
+font-weight: 400;
+line-height: 34.8px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+}
+
+.infoOFProfileofDelveOFDevelopers{
+    width: 1800px;
+height: 300px;
+top: 123px;
+left: 60px;
+gap: 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+position: absolute;
+}
+body{
+    background: rgb(36, 35, 35);
+
+}
+
+.infoOFProfile2{
+    width: 1800px;
+    height: 80px;
+    top: 260px;
+    left: 00px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(184.66deg, #212121 3.93%, #A6A6A6 482.42%);
+
+    position: absolute;
+}
+.Workspace{
+    width: 438px;
+height: 70px;
+top: 0px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.08px;
+    text-align: left;
+    position: absolute;
+    background: linear-gradient(270deg, #595959 0%, #262626 100%);
+
+}
+.Instruments{
+    width: 438px;
+height: 70px;
+top: 90px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.08px;
+    text-align: left;
+    position: absolute;
+    background-color:#2c2b2b;
+}
+.AnalyzebyAI{
+    width: 438px;
+    height: 70px;
+    top: 180px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.08px;
+    text-align: left;
+    position: absolute;
+    background-color:#2c2b2b;
+}
+.TechSupport{
+    width: 438px;
+    height: 70px;
+    top: 270px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;    
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.08px;
+    text-align: left;
+    position: absolute;
+    background-color:#2c2b2b;
+}
+.AccountInfo{
+    width: 438px;
+height: 70px;
+top: 360px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.08px;
+    text-align: left;
+    position: absolute;
+    background-color:#2c2b2b;
+}
+.CashOut{
+    width: 438px;
+    height: 70px;
+    top: 450px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;
+        font-family: Gilroy;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 47.08px;
+        text-align: left;
+        position: absolute;
+        background:#2c2b2b;
+       
+}
+.instrumentofprofile{
+    width: 438px;
+    height: 550px;
+    top: 405px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+    position: absolute;
+}
+.infoOFProfile33{
+width: 1322px;
+height: 560px;
+top: 405px;
+left: 478px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+background: rgb(67, 67, 67);
+}
+
+.categoryProfile{
+    color: rgb(154, 154, 154);
+    left: 20px;
+    top: 5px;
+    position: absolute;
+}
+
+.ImportGame{
+    width: 270px;
+height: 50px;
+top: 25px;
+left: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 10px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: center;
+background: rgb(192, 192, 192);
+position: absolute;
+
+}
+.ImportPhoto{
+    width: 270px;
+height: 60px;
+top: 25px;
+left: 325px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.4px;
+    text-align: center;
+    background: rgb(192, 192, 192);
+}
+.ImportLoader{
+    width: 270px;
+    height: 60px;
+    top: 25px;
+    left: 625px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.4px;
+    text-align: center;
+    background: rgb(192, 192, 192);
+}
+.Describe{
+    width: 161px;
+    height: 46px;
+    top: 140px;
+    left: 25px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+
+color:#ffffff;
+}
+.message-input{
+    width: 577px;
+    height: 325px;
+    top: 190px;
+    left: 25px;
+    gap: 0px;
+    border: 3px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(30, 30, 30, 1);
+    border: 3px solid rgba(217, 217, 217, 1) ;  
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: left;
+color: #ffffff;
+position: absolute;
+}
+.sentGame{
+    width: 600px;
+    height: 50px;
+    top: 475px;
+    left: 650px;
+    gap: 0px;
+    
+    background: rgba(255, 255, 255, 1);
+   
+    position: absolute;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 625;
+line-height: 43.2px;
+text-align: center;
+color: #000000;
+}
+#switchButton{
+    color: #f20000;  
+    position: absolute;
+    font-size: 40px;
+    top: 25px;
+    left: 1450px;
+
+    border-color: rgb(241, 192, 241);
+    color: #2e2e2e;
+    box-shadow: 0 0 40px 40px rgb(243, 202, 238) inset, 0 0 0 0 rgb(222, 180, 244);
+    transition: all 150ms ease-in-out;
+    
+    &:hover {
+      box-shadow: 0 0 10px 0 rgb(237, 159, 234) inset, 0 0 10px 4px rgb(169, 144, 173);
+    }
+  }
+#profileContainer{
+    background: #595959;
+}
+.custom-file-input {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid #3a3a3a;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #acacac;
+    font-size: 25px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    top: 25px;
+    left: 75px;
+}
+
+.custom-file-input:hover {
+    background-color: #535353;
+}
+
+.custom-file-input input[type="file"] {
+    position: absolute;
+    left: -10px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    top:10px;
+    left: 50px;
+}
+
+.custom-file-input2{
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid #3a3a3a;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #acacac;
+    font-size: 25px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    top:25px;
+    left: 75px;
+}
+.custom-file-input2:hover {
+    background-color: #535353;
+}
+
+.custom-file-input2 input[type="file"] {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    top:10px;
+    left: 50px;
+}
+.custom-file-input3{
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid #3a3a3a;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #acacac;
+    font-size: 25px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    top: 25px;
+    left: 75px;
+}
+.custom-file-input3:hover {
+    background-color: #535353;
+}
+
+.custom-file-input3 input[type="file"] {
+    position: absolute;
+    left: 20px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    top:10px;
+    left: 50px;
 }

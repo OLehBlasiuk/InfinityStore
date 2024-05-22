@@ -1158,6 +1158,7 @@ text-align: left;
 position: absolute;
 font-family: Gilroy;
 text-align: center;
+color: rgb(223, 149, 243);
 
 
 
@@ -1174,7 +1175,7 @@ font-size: 21px;
 font-weight: 300;
 line-height: 24.21px;
 text-align: left;
-
+color: rgb(223, 149, 243);
 position: absolute;
 
 
@@ -1192,9 +1193,16 @@ font-size: 45px;
 font-weight: 300;
 line-height: 51.88px;
 text-align: left;
-
+color: rgb(223, 149, 243);
 
 }
 
-
+.Video{
+  width: 1925px;
+height: 1275px;
+top: -100px;
+left: 0px;
+position:absolute;
+z-index: -10;
+}
 
